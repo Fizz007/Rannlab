@@ -60,3 +60,13 @@ npm run start
 - bcryptjs: Password hashing and authentication
 - jwt: JSON Web Token for user authentication
 
+## Publisher demo credentials
+
+  - Email: demop@gmail.com
+  - Password: 123456
+
+  
+## Author demo credentials
+
+  - Email: demoa@gmail.com
+  - Password: 123456
