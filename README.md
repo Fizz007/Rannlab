@@ -38,6 +38,7 @@ npm run start
 - Publisher Registration: Users can register by providing their name, email, password and organisation name.
 - Author Registration: Users can register by providing their name, email, password and also upload books for publisher.
 - User Login: Registered users can log in using their email and password.
+- Only Author can upload the books.
 
 
 ## TechStack Used
@@ -60,13 +61,4 @@ npm run start
 - bcryptjs: Password hashing and authentication
 - jwt: JSON Web Token for user authentication
 
-## Publisher demo credentials
 
-  - Email: demop@gmail.com
-  - Password: 123456
-
-  
-## Author demo credentials
-
-  - Email: demoa@gmail.com
-  - Password: 123456
